@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Camera",
+        "productCode": "Cam-0011",
+        "releaseDate": "March 19, 2016",
+        "description": "Sony A6000 24.3 Megapixels Digital Camera - Black (Kit w/ SELP1650)",
+        "price": 48000,
+        "starRating": 4,
+        "imageUrl": "./app/assets/images/product-images/camera.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Laptop",
+        "productCode": "Lap-0021",
+        "releaseDate": "March 18, 2016",
+        "description": "Dell Pentium Quad Core - (4 GB/500 GB HDD/DOS) Z565161UIN4/Z565162HIN9 3552 Notebook  (15.6 inch, Black, 2.1 kg)",
+        "price": 19900,
+        "starRating": 3.5,
+        "imageUrl": "./app/assets/images/product-images/laptop.jpg"
+    },
+    {
+        "productId": 3,
+        "productName": "Mobile",
+        "productCode": "Mob-0036",
+        "releaseDate": "May 21, 2016",
+        "description": "Samsung On5 Pro (Black)",
+        "price": 7900,
+        "starRating": 3.6,
+        "imageUrl": "./app/assets/images/product-images/mobile.jpg"
+    },
+    {
+        "productId": 4,
+        "productName": "Shoes",
+        "productCode": "Shoe-0045",
+        "releaseDate": "May 15, 2016",
+        "description": "Adidas Casual Mens Canvas",
+        "price": 2500,
+        "starRating": 3.7,
+        "imageUrl": "./app/assets/images/product-images/shoes.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Hand Bag",
+        "productCode": "Bag-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Levie Stylish Women hand bag",
+        "price": 2000,
+        "starRating": 3.0,
+        "imageUrl": "./app/assets/images/product-images/women_handbag.jpg"
+    }
+]
